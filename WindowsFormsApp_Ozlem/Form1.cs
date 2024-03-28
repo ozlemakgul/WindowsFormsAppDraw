@@ -22,6 +22,7 @@ namespace WindowsFormsApp_Ozlem
             g.Clear(Color.White);
             pic.Image= bm;
         }
+        // hello
         Bitmap bm;
         Graphics g;
         bool paint = false;
